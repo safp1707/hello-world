@@ -1,0 +1,11 @@
+//
+// Created by Hp on 10/11/2025.
+//
+#include <iostream>
+
+int main() {
+    // Muestra el mensaje "Hello, World!" en la consola.
+    std::cout << "Hello, World!" << std::endl;
+
+    return 0;
+}
